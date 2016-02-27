@@ -1,0 +1,3138 @@
+fileFormatVersion: 2
+guid: 6aff1d7f016e85346a6971cbe65a9d7b
+timeCreated: 1456532546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: download_0
+    21300002: download_1
+    21300004: download_2
+    21300006: download_3
+    21300008: download_4
+    21300010: download_5
+    21300012: download_6
+    21300014: download_7
+    21300016: download_8
+    21300018: download_9
+    21300020: download_10
+    21300022: download_11
+    21300024: download_12
+    21300026: download_13
+    21300028: download_14
+    21300030: download_15
+    21300032: download_16
+    21300034: download_17
+    21300036: download_18
+    21300038: download_19
+    21300040: download_20
+    21300042: download_21
+    21300044: download_22
+    21300046: download_23
+    21300048: download_24
+    21300050: download_25
+    21300052: download_26
+    21300054: download_27
+    21300056: download_28
+    21300058: download_29
+    21300060: download_30
+    21300062: download_31
+    21300064: download_32
+    21300066: download_33
+    21300068: download_34
+    21300070: download_35
+    21300072: download_36
+    21300074: download_37
+    21300076: download_38
+    21300078: download_39
+    21300080: download_40
+    21300082: download_41
+    21300084: download_42
+    21300086: download_43
+    21300088: download_44
+    21300090: download_45
+    21300092: download_46
+    21300094: download_47
+    21300096: download_48
+    21300098: download_49
+    21300100: download_50
+    21300102: download_51
+    21300104: download_52
+    21300106: download_53
+    21300108: download_54
+    21300110: download_55
+    21300112: download_56
+    21300114: download_57
+    21300116: download_58
+    21300118: download_59
+    21300120: download_60
+    21300122: download_61
+    21300124: download_62
+    21300126: download_63
+    21300128: download_64
+    21300130: download_65
+    21300132: download_66
+    21300134: download_67
+    21300136: download_68
+    21300138: download_69
+    21300140: download_70
+    21300142: download_71
+    21300144: download_72
+    21300146: download_73
+    21300148: download_74
+    21300150: download_75
+    21300152: download_76
+    21300154: download_77
+    21300156: download_78
+    21300158: download_79
+    21300160: download_80
+    21300162: download_81
+    21300164: download_82
+    21300166: download_83
+    21300168: download_84
+    21300170: download_85
+    21300172: download_86
+    21300174: download_87
+    21300176: download_88
+    21300178: download_89
+    21300180: download_90
+    21300182: download_91
+    21300184: download_92
+    21300186: download_93
+    21300188: download_94
+    21300190: download_95
+    21300192: download_96
+    21300194: download_97
+    21300196: download_98
+    21300198: download_99
+    21300200: download_100
+    21300202: download_101
+    21300204: download_102
+    21300206: download_103
+    21300208: download_104
+    21300210: download_105
+    21300212: download_106
+    21300214: download_107
+    21300216: download_108
+    21300218: download_109
+    21300220: download_110
+    21300222: download_111
+    21300224: download_112
+    21300226: download_113
+    21300228: download_114
+    21300230: download_115
+    21300232: download_116
+    21300234: download_117
+    21300236: download_118
+    21300238: download_119
+    21300240: download_120
+    21300242: download_121
+    21300244: download_122
+    21300246: download_123
+    21300248: download_124
+    21300250: download_125
+    21300252: download_126
+    21300254: download_127
+    21300256: download_128
+    21300258: download_129
+    21300260: download_130
+    21300262: download_131
+    21300264: download_132
+    21300266: download_133
+    21300268: download_134
+    21300270: download_135
+    21300272: download_136
+    21300274: download_137
+    21300276: download_138
+    21300278: download_139
+    21300280: download_140
+    21300282: download_141
+    21300284: download_142
+    21300286: download_143
+    21300288: download_144
+    21300290: download_145
+    21300292: download_146
+    21300294: download_147
+    21300296: download_148
+    21300298: download_149
+    21300300: download_150
+    21300302: download_151
+    21300304: download_152
+    21300306: download_153
+    21300308: download_154
+    21300310: download_155
+    21300312: download_156
+    21300314: download_157
+    21300316: download_158
+    21300318: download_159
+    21300320: download_160
+    21300322: download_161
+    21300324: download_162
+    21300326: download_163
+    21300328: download_164
+    21300330: download_165
+    21300332: download_166
+    21300334: download_167
+    21300336: download_168
+    21300338: download_169
+    21300340: download_170
+    21300342: download_171
+    21300344: download_172
+    21300346: download_173
+    21300348: download_174
+    21300350: download_175
+    21300352: download_176
+    21300354: download_177
+    21300356: hero_0
+    21300358: hero_1
+    21300360: hero_2
+    21300362: hero_3
+    21300364: hero_4
+    21300366: hero_5
+    21300368: hero_6
+    21300370: hero_7
+    21300372: hero_8
+    21300374: hero_9
+    21300376: hero_10
+    21300378: hero_11
+    21300380: hero_12
+    21300382: hero_13
+    21300384: hero_14
+    21300386: hero_15
+    21300388: hero_16
+    21300390: hero_17
+    21300392: hero_18
+    21300394: hero_19
+    21300396: hero_20
+    21300398: hero_21
+    21300400: hero_22
+    21300402: hero_23
+    21300404: hero_24
+    21300406: hero_25
+    21300408: hero_26
+    21300410: hero_27
+    21300412: hero_28
+    21300414: hero_29
+    21300416: hero_30
+    21300418: hero_31
+    21300420: hero_32
+    21300422: hero_33
+    21300424: hero_34
+    21300426: hero_35
+    21300428: hero_36
+    21300430: hero_37
+    21300432: hero_38
+    21300434: hero_39
+    21300436: hero_40
+    21300438: hero_41
+    21300440: hero_42
+    21300442: hero_43
+    21300444: hero_44
+    21300446: hero_45
+    21300448: hero_46
+    21300450: hero_47
+    21300452: hero_48
+    21300454: hero_49
+    21300456: hero_50
+    21300458: hero_51
+    21300460: hero_52
+    21300462: hero_53
+    21300464: hero_54
+    21300466: hero_55
+    21300468: hero_56
+    21300470: hero_57
+    21300472: hero_58
+    21300474: hero_59
+    21300476: hero_60
+    21300478: hero_61
+    21300480: hero_62
+    21300482: hero_63
+    21300484: hero_64
+    21300486: hero_65
+    21300488: hero_66
+    21300490: hero_67
+    21300492: hero_68
+    21300494: hero_69
+    21300496: hero_70
+    21300498: hero_71
+    21300500: hero_72
+    21300502: hero_73
+    21300504: hero_74
+    21300506: hero_75
+    21300508: hero_76
+    21300510: hero_77
+    21300512: hero_78
+    21300514: hero_79
+    21300516: hero_80
+    21300518: hero_81
+    21300520: hero_82
+    21300522: hero_83
+    21300524: hero_84
+    21300526: hero_85
+    21300528: hero_86
+    21300530: hero_87
+    21300532: hero_88
+    21300534: hero_89
+    21300536: hero_90
+    21300538: hero_91
+    21300540: hero_92
+    21300542: hero_93
+    21300544: hero_94
+    21300546: hero_95
+    21300548: hero_96
+    21300550: hero_97
+    21300552: hero_98
+    21300554: hero_99
+    21300556: hero_100
+    21300558: hero_101
+    21300560: hero_102
+    21300562: hero_103
+    21300564: hero_104
+    21300566: hero_105
+    21300568: hero_106
+    21300570: hero_107
+    21300572: hero_108
+    21300574: hero_109
+    21300576: hero_110
+    21300578: hero_111
+    21300580: hero_112
+    21300582: hero_113
+    21300584: hero_114
+    21300586: hero_115
+    21300588: hero_116
+    21300590: hero_117
+    21300592: hero_118
+    21300594: hero_119
+    21300596: hero_120
+    21300598: hero_121
+    21300600: hero_122
+    21300602: hero_123
+    21300604: hero_124
+    21300606: hero_125
+    21300608: hero_126
+    21300610: hero_127
+    21300612: hero_128
+    21300614: hero_129
+    21300616: hero_130
+    21300618: hero_131
+    21300620: hero_132
+    21300622: hero_133
+    21300624: hero_134
+    21300626: hero_135
+    21300628: hero_136
+    21300630: hero_137
+    21300632: hero_138
+    21300634: hero_139
+    21300636: hero_140
+    21300638: hero_141
+    21300640: hero_142
+    21300642: hero_143
+    21300644: hero_144
+    21300646: hero_145
+    21300648: hero_146
+    21300650: hero_147
+    21300652: hero_148
+    21300654: hero_149
+    21300656: hero_150
+    21300658: hero_151
+    21300660: hero_152
+    21300662: hero_153
+    21300664: hero_154
+    21300666: hero_155
+    21300668: hero_156
+    21300670: hero_157
+    21300672: hero_158
+    21300674: hero_159
+    21300676: hero_160
+    21300678: hero_161
+    21300680: hero_162
+    21300682: hero_163
+    21300684: hero_164
+    21300686: hero_165
+    21300688: hero_166
+    21300690: hero_167
+    21300692: hero_168
+    21300694: hero_169
+    21300696: hero_170
+    21300698: hero_171
+    21300700: hero_172
+    21300702: hero_173
+    21300704: hero_174
+    21300706: hero_175
+    21300708: hero_176
+    21300710: hero_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25}
+        - {x: -15, y: 22}
+        - {x: -18, y: 7}
+        - {x: -18, y: -18}
+        - {x: -15, y: -25}
+        - {x: 15, y: -25}
+        - {x: 18, y: -22}
+        - {x: 18, y: 17}
+        - {x: 10, y: 25}
+    - name: hero_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -25, y: 16}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 13}
+        - {x: 15, y: 25}
+    - name: hero_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -24, y: 16}
+        - {x: -24, y: 1}
+        - {x: -16, y: -25}
+        - {x: 17, y: -25}
+        - {x: 24, y: -16}
+        - {x: 24, y: 15}
+        - {x: 14, y: 25}
+    - name: hero_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25}
+        - {x: -15, y: 22}
+        - {x: -18, y: 7}
+        - {x: -18, y: -18}
+        - {x: -15, y: -25}
+        - {x: 15, y: -25}
+        - {x: 18, y: -22}
+        - {x: 18, y: 17}
+        - {x: 10, y: 25}
+    - name: hero_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -17, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: 25.5}
+    - name: hero_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -7.5}
+        - {x: -16, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 6, y: -25.5}
+        - {x: 8, y: -24.5}
+        - {x: 13, y: -8.5}
+        - {x: 18, y: 8.5}
+        - {x: 18, y: 25.5}
+    - name: hero_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 6, y: -25.5}
+        - {x: 7, y: -24.5}
+        - {x: 18, y: 14.5}
+        - {x: 18, y: 25.5}
+    - name: hero_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 11, y: -25.5}
+        - {x: 18, y: -2.5}
+        - {x: 18, y: 25.5}
+    - name: hero_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -16.5}
+        - {x: -16, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 8, y: -25.5}
+        - {x: 18, y: -0.5}
+        - {x: 18, y: 25.5}
+    - name: hero_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 18, y: -21.5}
+        - {x: 18, y: 25.5}
+    - name: hero_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1218
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -19.5}
+        - {x: -16, y: -25.5}
+        - {x: 6, y: -25.5}
+        - {x: 16, y: -6.5}
+        - {x: 18, y: 7.5}
+        - {x: 18, y: 25.5}
+    - name: hero_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 28}
+        - {x: -17, y: 28}
+        - {x: -18, y: 25}
+        - {x: -18, y: -27}
+        - {x: -17, y: -28}
+        - {x: 18, y: -28}
+        - {x: 18, y: 22}
+        - {x: 3, y: 27}
+    - name: hero_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 28}
+        - {x: -25, y: 28}
+        - {x: -25, y: -19}
+        - {x: -15, y: -28}
+        - {x: 18, y: -28}
+        - {x: 25, y: -16}
+        - {x: 25, y: 20}
+        - {x: 23, y: 25}
+    - name: hero_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 28}
+        - {x: -20, y: 28}
+        - {x: -24, y: 24}
+        - {x: -24, y: -13}
+        - {x: -18, y: -28}
+        - {x: 16, y: -28}
+        - {x: 24, y: -2}
+        - {x: 24, y: 16}
+        - {x: 15, y: 26}
+    - name: hero_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 21}
+        - {x: 1, y: 28}
+    - name: hero_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 0.5}
+        - {x: -8, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 11.5}
+        - {x: -12, y: -8.5}
+        - {x: -5, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: hero_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 6.5}
+        - {x: -8, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 21.5}
+        - {x: 15, y: 25.5}
+    - name: hero_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 1.5}
+        - {x: -8, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -19.5}
+        - {x: 18, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -11.5}
+        - {x: -13, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: hero_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 3.5}
+        - {x: -10, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 16, y: -19.5}
+        - {x: 18, y: -8.5}
+        - {x: 18, y: 25.5}
+    - name: hero_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1090
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -15, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -19.5}
+        - {x: 18, y: 25.5}
+    - name: hero_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 962
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -17, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: 25.5}
+    - name: hero_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 962
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 10, y: -25.5}
+        - {x: 18, y: 14.5}
+        - {x: 18, y: 25.5}
+    - name: hero_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 962
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 24.5}
+        - {x: -18, y: -19.5}
+        - {x: -16, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 25.5}
+    - name: hero_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 962
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 14, y: -7.5}
+        - {x: 18, y: 7.5}
+        - {x: 18, y: 25.5}
+    - name: hero_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25.5}
+        - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -13.5, y: -25.5}
+        - {x: 12.5, y: -25.5}
+        - {x: 18.5, y: 11.5}
+        - {x: 18.5, y: 25.5}
+    - name: hero_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -20, y: 23.5}
+        - {x: -20, y: -13.5}
+        - {x: -15, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 20, y: 11.5}
+        - {x: 20, y: 25.5}
+    - name: hero_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25.5}
+        - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -13.5, y: -25.5}
+        - {x: 12.5, y: -25.5}
+        - {x: 18.5, y: 11.5}
+        - {x: 18.5, y: 25.5}
+    - name: hero_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 962
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 14, y: -7.5}
+        - {x: 18, y: 7.5}
+        - {x: 18, y: 25.5}
+    - name: hero_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 0.5}
+        - {x: -8, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 834
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 4.5}
+        - {x: -10, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 18, y: -23.5}
+        - {x: 18, y: 22.5}
+        - {x: 15, y: 25.5}
+    - name: hero_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 834
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 2.5}
+        - {x: -8, y: -25.5}
+        - {x: 17, y: -25.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 25.5}
+    - name: hero_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 834
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -10.5}
+        - {x: -8, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: hero_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 834
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25.5}
+        - {x: -18.5, y: 8.5}
+        - {x: -11.5, y: -25.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 24.5}
+        - {x: 16.5, y: 25.5}
+    - name: hero_57
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 834
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25.5}
+        - {x: -20, y: 4.5}
+        - {x: -13, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 20, y: -22.5}
+        - {x: 20, y: 18.5}
+        - {x: 17, y: 25.5}
+    - name: hero_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 834
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25.5}
+        - {x: -18.5, y: 8.5}
+        - {x: -11.5, y: -25.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 24.5}
+        - {x: 16.5, y: 25.5}
+    - name: hero_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 834
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -10.5}
+        - {x: -8, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: hero_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 706
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -17, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: 25.5}
+    - name: hero_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -18, y: 23}
+        - {x: -18, y: -24}
+        - {x: -17, y: -25}
+        - {x: 14, y: -25}
+        - {x: 18, y: 5}
+        - {x: 18, y: 25}
+    - name: hero_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 707
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 25}
+        - {x: -16, y: 25}
+        - {x: -18, y: 22}
+        - {x: -18, y: -25}
+        - {x: 4, y: -25}
+        - {x: 6, y: -23}
+        - {x: 18, y: 3}
+        - {x: 18, y: 23}
+    - name: hero_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 707
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -18, y: 22}
+        - {x: -18, y: -9}
+        - {x: -13, y: -25}
+        - {x: 13, y: -25}
+        - {x: 18, y: 1}
+        - {x: 18, y: 25}
+    - name: hero_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 706
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 24.5}
+        - {x: -18, y: -25.5}
+        - {x: 10, y: -25.5}
+        - {x: 18, y: 0.5}
+        - {x: 18, y: 25.5}
+    - name: hero_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 706
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -18, y: 24}
+        - {x: -18, y: -25}
+        - {x: 16, y: -25}
+        - {x: 18, y: -14}
+        - {x: 18, y: 25}
+    - name: hero_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 706
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 24.5}
+        - {x: -18, y: -25.5}
+        - {x: 11, y: -25.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: 25.5}
+    - name: hero_76
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 706
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -18, y: 24.5}
+        - {x: -18, y: -2.5}
+        - {x: -12, y: -25.5}
+        - {x: 5, y: -25.5}
+        - {x: 9, y: -24.5}
+        - {x: 11, y: -9.5}
+        - {x: 18, y: 10.5}
+        - {x: 18, y: 25.5}
+    - name: hero_77
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 706
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 25.5}
+    - name: hero_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 578
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 0.5}
+        - {x: -8, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 578
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -17}
+        - {x: -17, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 25}
+    - name: hero_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 579
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: 11}
+        - {x: -8, y: -24}
+        - {x: -6, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 22}
+        - {x: 15, y: 25}
+    - name: hero_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 579
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: 4}
+        - {x: -10, y: -25}
+        - {x: 14, y: -25}
+        - {x: 18, y: -6}
+        - {x: 18, y: 25}
+    - name: hero_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 578
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -16.5}
+        - {x: -9, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 25.5}
+    - name: hero_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 578
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -1}
+        - {x: -16, y: -14}
+        - {x: -11, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 22}
+        - {x: 13, y: 25}
+    - name: hero_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 578
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -2.5}
+        - {x: -16, y: -15.5}
+        - {x: -5, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 18, y: -18.5}
+        - {x: 18, y: 22.5}
+        - {x: 16, y: 25.5}
+    - name: hero_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 578
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 7.5}
+        - {x: -6, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 15, y: -24.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 24.5}
+        - {x: 16, y: 25.5}
+    - name: hero_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 578
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25.5}
+        - {x: -12, y: 25.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: 8.5}
+        - {x: -11, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 16, y: -23.5}
+        - {x: 18, y: 2.5}
+        - {x: 18, y: 21.5}
+    - name: hero_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -15, y: 24.5}
+        - {x: -18, y: 20.5}
+        - {x: -18, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 14.5}
+        - {x: 9, y: 25.5}
+    - name: hero_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 25.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 10.5, y: -25.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 17.5, y: 25.5}
+    - name: hero_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 450
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -17, y: -24.5}
+        - {x: -15, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: 25.5}
+    - name: hero_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: 24.5}
+    - name: hero_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 450
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25.5}
+        - {x: -18, y: 21.5}
+        - {x: -18, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 25.5}
+    - name: hero_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25.5}
+        - {x: -20, y: -15.5}
+        - {x: -14, y: -24.5}
+        - {x: -10, y: -25.5}
+        - {x: 11, y: -25.5}
+        - {x: 18, y: -13.5}
+        - {x: 20, y: 4.5}
+        - {x: 20, y: 25.5}
+    - name: hero_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25.5}
+        - {x: -18, y: 23.5}
+        - {x: -21, y: 11.5}
+        - {x: -21, y: -9.5}
+        - {x: -11, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 21, y: -18.5}
+        - {x: 21, y: 25.5}
+    - name: hero_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 25.5}
+        - {x: -19.5, y: 22.5}
+        - {x: -19.5, y: -7.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 25.5}
+    - name: hero_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -12}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 24}
+        - {x: -0.5, y: 27}
+        - {x: -7.5, y: 28}
+        - {x: -17.5, y: 28}
+        - {x: -17.5, y: -28}
+        - {x: 8.5, y: -28}
+        - {x: 9.5, y: -26}
+        - {x: 9.5, y: -16}
+        - {x: 8.5, y: -15}
+    - name: hero_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 28}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: -28}
+        - {x: 11.5, y: -28}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 6}
+        - {x: 15.5, y: 20}
+    - name: hero_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 0.5}
+        - {x: -8, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 322
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24.5}
+        - {x: -18, y: -8.5}
+        - {x: -15, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 24.5}
+    - name: hero_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -14.5}
+        - {x: -16, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 24.5}
+        - {x: 16, y: 25.5}
+    - name: hero_117
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25.5}
+        - {x: -20, y: -5.5}
+        - {x: -14, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 20, y: 25.5}
+    - name: hero_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 322
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25.5}
+        - {x: -21, y: 25.5}
+        - {x: -21, y: -20.5}
+        - {x: -16, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 10, y: -23.5}
+        - {x: 21, y: -4.5}
+        - {x: 21, y: 14.5}
+    - name: hero_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 322
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 25.5}
+        - {x: -19.5, y: -20.5}
+        - {x: -14.5, y: -25.5}
+        - {x: 15.5, y: -25.5}
+        - {x: 19.5, y: -10.5}
+        - {x: 19.5, y: 25.5}
+    - name: hero_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -15.5}
+        - {x: -14, y: -25.5}
+        - {x: 19, y: -25.5}
+        - {x: 19, y: 24.5}
+        - {x: 17, y: 25.5}
+    - name: hero_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -17, y: -5}
+        - {x: -15, y: -13}
+        - {x: -9, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 25}
+    - name: hero_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -0.5}
+        - {x: -15, y: -21.5}
+        - {x: -12, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: hero_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 4.5}
+        - {x: 13, y: 4.5}
+        - {x: 20, y: 10.5}
+        - {x: 24, y: 17.5}
+        - {x: 24, y: 25.5}
+        - {x: -24, y: 25.5}
+        - {x: -24, y: -2.5}
+        - {x: -22, y: -4.5}
+        - {x: -17, y: -11.5}
+        - {x: -11, y: -24.5}
+        - {x: -9, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 24, y: 5.5}
+        - {x: 17, y: 7.5}
+        - {x: 16, y: 4.5}
+    - name: hero_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25.5}
+        - {x: -17.5, y: 23.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -15.5, y: 13.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -21.5, y: 15.5}
+        - {x: -21.5, y: -4.5}
+        - {x: -12.5, y: -24.5}
+        - {x: -10.5, y: -25.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 21.5, y: 4.5}
+        - {x: 21.5, y: 25.5}
+    - name: hero_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -6.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 12.5, y: -25.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 22.5, y: 25.5}
+    - name: hero_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: -24.5}
+        - {x: -17, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 21, y: 6.5}
+        - {x: 21, y: 25.5}
+    - name: hero_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -20, y: 17.5}
+        - {x: -21, y: 14.5}
+        - {x: -21, y: -9.5}
+        - {x: -13, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 21, y: 8.5}
+        - {x: 21, y: 25.5}
+    - name: hero_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 26.5}
+        - {x: -15.5, y: 26.5}
+        - {x: -21.5, y: 20.5}
+        - {x: -21.5, y: -10.5}
+        - {x: -10.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 21.5, y: 7.5}
+        - {x: 21.5, y: 25.5}
+    - name: hero_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27.5}
+        - {x: -21.5, y: 23.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -12.5, y: -27.5}
+        - {x: 15.5, y: -27.5}
+        - {x: 21.5, y: 6.5}
+        - {x: 21.5, y: 24.5}
+        - {x: 16.5, y: 27.5}
+    - name: hero_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26.5}
+        - {x: -14, y: 25.5}
+        - {x: -19, y: 18.5}
+        - {x: -21, y: 15.5}
+        - {x: -21, y: -23.5}
+        - {x: -14, y: -26.5}
+        - {x: 19, y: -26.5}
+        - {x: 21, y: -4.5}
+        - {x: 21, y: 24.5}
+        - {x: 12, y: 26.5}
+    - name: hero_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -16, y: 21.5}
+        - {x: -21, y: 14.5}
+        - {x: -21, y: -6.5}
+        - {x: -13, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 21, y: 1.5}
+        - {x: 21, y: 25.5}
+    - name: hero_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -21, y: 19.5}
+        - {x: -21, y: -21.5}
+        - {x: -17, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 21, y: 11.5}
+        - {x: 21, y: 23.5}
+    - name: hero_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -21, y: 18.5}
+        - {x: -21, y: -13.5}
+        - {x: -14, y: -24.5}
+        - {x: -12, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 16, y: -7.5}
+        - {x: 21, y: 12.5}
+        - {x: 21, y: 25.5}
+    - name: hero_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -21, y: 18.5}
+        - {x: -21, y: -19.5}
+        - {x: -14, y: -24.5}
+        - {x: -10, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 15, y: -21.5}
+        - {x: 21, y: 14.5}
+        - {x: 21, y: 25.5}
+    - name: hero_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -21, y: 18.5}
+        - {x: -21, y: -13.5}
+        - {x: -14, y: -24.5}
+        - {x: -12, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 16, y: -7.5}
+        - {x: 21, y: 12.5}
+        - {x: 21, y: 25.5}
+    - name: hero_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 26}
+        - {x: -8, y: 26}
+        - {x: -13, y: 28}
+        - {x: -19, y: 28}
+        - {x: -19, y: -28}
+        - {x: 12, y: -28}
+        - {x: 19, y: -13}
+        - {x: 19, y: 7}
+        - {x: 9, y: 23}
+    - name: hero_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27.5}
+        - {x: -17, y: -24.5}
+        - {x: -14, y: -27.5}
+        - {x: 15, y: -27.5}
+        - {x: 17, y: -23.5}
+        - {x: 17, y: 25.5}
+        - {x: 5, y: 27.5}
+    - name: hero_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 27.5}
+        - {x: -18, y: 27.5}
+        - {x: -18, y: -23.5}
+        - {x: -17, y: -24.5}
+        - {x: -11, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 10, y: -25.5}
+        - {x: 18, y: -8.5}
+        - {x: 18, y: 18.5}
+    - name: hero_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_159
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 25.5}
+        - {x: -21, y: 25.5}
+        - {x: -24, y: 23.5}
+        - {x: -24, y: -2.5}
+        - {x: -11, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 24, y: -6.5}
+        - {x: 24, y: 11.5}
+    - name: hero_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 16.5}
+        - {x: 15.5, y: 13.5}
+        - {x: 15.5, y: 12.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 17.5, y: 19.5}
+        - {x: 9.5, y: 25.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 21.5, y: -4.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 20.5, y: 16.5}
+    - name: hero_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 25.5}
+        - {x: -22.5, y: -0.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 22.5, y: -5.5}
+        - {x: 22.5, y: 19.5}
+        - {x: 13.5, y: 25.5}
+    - name: hero_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: 16.5}
+        - {x: -17, y: 10.5}
+        - {x: -18, y: -2.5}
+        - {x: -12, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: 15.5}
+        - {x: 16, y: 25.5}
+    - name: hero_163
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: -5.5}
+        - {x: -12, y: -25.5}
+        - {x: 17, y: -25.5}
+        - {x: 21, y: -14.5}
+        - {x: 21, y: 21.5}
+        - {x: 16, y: 25.5}
+    - name: hero_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -21.5, y: 22.5}
+        - {x: -21.5, y: -1.5}
+        - {x: -12.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 21.5, y: 22.5}
+        - {x: 20.5, y: 26.5}
+    - name: hero_165
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 66
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 27.5}
+        - {x: -10.5, y: 27.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -21.5, y: -1.5}
+        - {x: -16.5, y: -27.5}
+        - {x: 11.5, y: -27.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 21.5, y: -7.5}
+        - {x: 21.5, y: 18.5}
+    - name: hero_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 66
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26.5}
+        - {x: -21, y: 23.5}
+        - {x: -21, y: -0.5}
+        - {x: -14, y: -26.5}
+        - {x: 21, y: -26.5}
+        - {x: 21, y: 26.5}
+    - name: hero_167
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: -25.5}
+        - {x: 11, y: -25.5}
+        - {x: 21, y: -7.5}
+        - {x: 21, y: 19.5}
+        - {x: 20, y: 25.5}
+    - name: hero_168
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: -4.5}
+        - {x: -13, y: -25.5}
+        - {x: 21, y: -25.5}
+        - {x: 21, y: 25.5}
+    - name: hero_169
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: 5.5}
+        - {x: -12, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 21, y: -19.5}
+        - {x: 21, y: 20.5}
+        - {x: 19, y: 25.5}
+    - name: hero_170
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: 15.5}
+        - {x: -12, y: -25.5}
+        - {x: 21, y: -25.5}
+        - {x: 21, y: 25.5}
+    - name: hero_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 66
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -21, y: 9.5}
+        - {x: -13, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 21, y: -19.5}
+        - {x: 21, y: 20.5}
+        - {x: 19, y: 25.5}
+    - name: hero_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 9.5}
+        - {x: 12, y: 13.5}
+    - name: hero_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -17, y: -18}
+        - {x: 17, y: -18}
+        - {x: 17, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
