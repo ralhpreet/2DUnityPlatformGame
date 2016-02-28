@@ -27,7 +27,7 @@ public class HeroControllerScript : MonoBehaviour
     public Transform groundCheck;
     public Transform camera;
 
-    //public GameController gameController;
+    public GameController gameController;
 
 
     //Private Instance Variables
@@ -150,7 +150,7 @@ public class HeroControllerScript : MonoBehaviour
         {
             this._spawn();
             //this._hurtSound.Play();
-           // this.gameController.LivesValue--;
+           this.gameController.LivesValue--;
         }
     }
 
