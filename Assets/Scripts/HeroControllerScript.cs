@@ -55,13 +55,16 @@ public class HeroControllerScript : MonoBehaviour
         //set default animation  to "idle"
         //this._animator.SetInteger("AnimState", 0);
         this._facingRight = true;
+        // place the hero in the starting position
+        this._spawn();
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
        // this._isGrounded = true;
-        
+        Vector3 currentPosition = new Vector3(this._transform.position.x, this._transform.position.y, -10f);
+        this.camera.position = currentPosition;
         this._isGrounded = Physics2D.Linecast(this._transform.position, this.groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
         Debug.DrawLine(this._transform.position, this.groundCheck.position);
         float forceX = 0f;
@@ -126,6 +129,31 @@ public class HeroControllerScript : MonoBehaviour
         this._rigidBody2D.AddForce(new Vector2(forceX, forceY));
     }
 
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        /*if (other.gameObject.CompareTag("Coin"))
+        {
+            this._coinSound.Play();
+            Destroy(other.gameObject);
+            this.gameController.ScoreValue += 10;
+        }
+
+        if (other.gameObject.CompareTag("SpikedWheel"))
+        {
+            this._hurtSound.Play();
+            this.gameController.LivesValue--;
+        }*/
+
+
+        if (other.gameObject.CompareTag("Death"))
+        {
+            this._spawn();
+            //this._hurtSound.Play();
+           // this.gameController.LivesValue--;
+        }
+    }
+
     //Private Methods
 
     private void _flip()
@@ -138,5 +166,10 @@ public class HeroControllerScript : MonoBehaviour
         {
             this._transform.localScale = new Vector2(-2.05f, 1.6f);
         }
+    }
+
+    private void _spawn()
+    {
+        this._transform.position = new Vector3(-2009, 500f, 0);
     }
 }
