@@ -38,12 +38,15 @@ public class HeroControllerScript : MonoBehaviour
     private Transform _transform;
     private Rigidbody2D _rigidBody2D;
     private bool _isGrounded;
-
+    private AudioSource[] _audioSources;
+    private AudioSource _berrySound;
+    private AudioSource _jumpSound;
+    private AudioSource _themeSound,_gameOverSound;
     // Use this for initialization
     void Start()
     {
         //Initialize Public Variables
-        this.velocityRange = new VelocityRange(300f, 2000f);
+        this.velocityRange = new VelocityRange(300f, 500f);
         // this.moveForce = 50f;
         //this.jumpForce = 500f;
         //Initialize Private Varibles 
@@ -52,9 +55,15 @@ public class HeroControllerScript : MonoBehaviour
         this._rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
         this._move = 0f;
         this._jump = 0f;
-        //set default animation  to "idle"
-        //this._animator.SetInteger("AnimState", 0);
+        
         this._facingRight = true;
+
+        //setup AudioSources
+        this._audioSources = gameObject.GetComponents<AudioSource>();
+        this._berrySound = this._audioSources[0];
+        this._jumpSound = this._audioSources[1];
+        this._themeSound = this._audioSources[2];
+        this._gameOverSound = this._audioSources[3];
         // place the hero in the starting position
         this._spawn();
     }
@@ -65,15 +74,23 @@ public class HeroControllerScript : MonoBehaviour
        // this._isGrounded = true;
         Vector3 currentPosition = new Vector3(this._transform.position.x, this._transform.position.y, -10f);
         this.camera.position = currentPosition;
-        this._isGrounded = Physics2D.Linecast(this._transform.position, this.groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
+        if (currentPosition.y > 600)
+            currentPosition.y = 600;
+        this._isGrounded = Physics2D.Linecast(this._transform.position, this.groundCheck.position, 1<< LayerMask.NameToLayer("Ground"));
         Debug.DrawLine(this._transform.position, this.groundCheck.position);
+
+      //  Debug.Log(currentPosition.y);
+
+        
+
+
         float forceX = 0f;
         float forceY = 0f;
 
         //ge absolute value of velocity for our gameobject
         float absVelX = Mathf.Abs(this._rigidBody2D.velocity.x);
         float absVelY = Mathf.Abs(this._rigidBody2D.velocity.y);
-        Debug.Log(_isGrounded);
+       // Debug.Log(_isGrounded);
         //check if the player is grounded
         if (this._isGrounded)
         {
@@ -115,15 +132,21 @@ public class HeroControllerScript : MonoBehaviour
                 //jump force
                 if (absVelY < this.velocityRange.maximum)
                 {
+                    this._jumpSound.Play();
                     forceY = this.jumpForce;
+                    
                 }
 
             }
         }
         else
         {
+
             //call the jump animation
             this._animator.SetInteger("AnimState", 2);
+
+            //call jump sound;
+            
         }
         //Apply forces to the player
         this._rigidBody2D.AddForce(new Vector2(forceX, forceY));
@@ -132,14 +155,14 @@ public class HeroControllerScript : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        /*if (other.gameObject.CompareTag("Coin"))
+        if (other.gameObject.CompareTag("Berry"))
         {
-            this._coinSound.Play();
+            this._berrySound.Play();
             Destroy(other.gameObject);
             this.gameController.ScoreValue += 10;
         }
 
-        if (other.gameObject.CompareTag("SpikedWheel"))
+        /*if (other.gameObject.CompareTag("SpikedWheel"))
         {
             this._hurtSound.Play();
             this.gameController.LivesValue--;
@@ -151,6 +174,14 @@ public class HeroControllerScript : MonoBehaviour
             this._spawn();
             //this._hurtSound.Play();
            this.gameController.LivesValue--;
+        }
+        if (other.gameObject.CompareTag("Flag"))
+        {
+            this.gameController._endGame();
+            this._themeSound.Stop();
+            this._gameOverSound.Play();
+            
+            
         }
     }
 

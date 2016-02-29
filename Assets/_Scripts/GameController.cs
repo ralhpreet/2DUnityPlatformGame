@@ -73,25 +73,27 @@ public class GameController : MonoBehaviour
     {
         this.ScoreValue = 0;
         this.LivesValue = 5;
-        //this.GameOverLabel.gameObject.SetActive (false);
-        //this.HighScoreLabel.gameObject.SetActive (false);
-        //this.RestartButton.gameObject.SetActive(false);
+        this.GameOverLabel.gameObject.SetActive (false);
+        this.HighScoreLabel.gameObject.SetActive (false);
+        this.RestartButton.gameObject.SetActive(false);
     }
 
-    private void _endGame()
-    {
-        //this.HighScoreLabel.text = "High Score: " + this._scoreValue;
-        //this.GameOverLabel.gameObject.SetActive (true);
-        //this.HighScoreLabel.gameObject.SetActive (true);
-        this.LivesLabel.gameObject.SetActive(false);
-        this.ScoreLabel.gameObject.SetActive(false);
-        //this.RestartButton.gameObject.SetActive (true);
-    }
+    
 
     // PUBLIC METHODS
+    public void _endGame()
+    {
+        this.HighScoreLabel.text = "High Score: " + this._scoreValue;
+        this.GameOverLabel.gameObject.SetActive(true);
+        this.HighScoreLabel.gameObject.SetActive(true);
+        this.LivesLabel.gameObject.SetActive(false);
+        this.ScoreLabel.gameObject.SetActive(false);
+        this.RestartButton.gameObject.SetActive(true);
+    }
 
     public void RestartButtonClick()
     {
+        Debug.Log("restart clicked");
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
