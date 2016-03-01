@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+﻿/*
+ * Source File Name: GameController.cs
+ * Author: Lovepreet Ralh
+ * Last Modified by: Lovepreet ralh
+ * Date Last Modified: 29th Feb,2016
+ * Program Description: Controls the score, lives and restart the game
+ * Revision History:version 1.3
+ * 
+ */
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -93,7 +102,7 @@ public class GameController : MonoBehaviour
 
     public void RestartButtonClick()
     {
-        Debug.Log("restart clicked");
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Debug.Log("restart");
+        Application.LoadLevel("Main");
     }
 }

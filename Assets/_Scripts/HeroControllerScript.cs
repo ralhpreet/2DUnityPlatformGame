@@ -1,4 +1,15 @@
-﻿using UnityEngine;
+﻿/*
+ * Source File Name: HeroController.cs
+ * Author: Lovepreet Ralh
+ * Last Modified by: Lovepreet ralh
+ * Date Last Modified: 29 Feb,2016
+ * Program Description: Controls the speed of player, jump force, moving force as well as the direction of running 
+ * Revision History:version 1.6
+ * 
+ */
+
+
+using UnityEngine;
 using System.Collections;
 
 //Velocity range utility class#######
@@ -28,7 +39,7 @@ public class HeroControllerScript : MonoBehaviour
     public Transform camera;
 
     public GameController gameController;
-
+    Vector3 currentPosition;
 
     //Private Instance Variables
     private Animator _animator;
@@ -41,7 +52,7 @@ public class HeroControllerScript : MonoBehaviour
     private AudioSource[] _audioSources;
     private AudioSource _berrySound;
     private AudioSource _jumpSound;
-    private AudioSource _themeSound,_gameOverSound;
+    private AudioSource _themeSound,_gameOverSound,_hurtSound;
     // Use this for initialization
     void Start()
     {
@@ -64,6 +75,7 @@ public class HeroControllerScript : MonoBehaviour
         this._jumpSound = this._audioSources[1];
         this._themeSound = this._audioSources[2];
         this._gameOverSound = this._audioSources[3];
+        this._hurtSound = this._audioSources[4];
         // place the hero in the starting position
         this._spawn();
     }
@@ -71,15 +83,14 @@ public class HeroControllerScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-       // this._isGrounded = true;
-        Vector3 currentPosition = new Vector3(this._transform.position.x, this._transform.position.y, -10f);
+       
+         currentPosition = new Vector3(this._transform.position.x, this._transform.position.y, -10f);
         this.camera.position = currentPosition;
-        if (currentPosition.y > 600)
-            currentPosition.y = 600;
+        
         this._isGrounded = Physics2D.Linecast(this._transform.position, this.groundCheck.position, 1<< LayerMask.NameToLayer("Ground"));
         Debug.DrawLine(this._transform.position, this.groundCheck.position);
 
-      //  Debug.Log(currentPosition.y);
+      // Debug.Log(_isGrounded);
 
         
 
@@ -134,8 +145,11 @@ public class HeroControllerScript : MonoBehaviour
                 {
                     this._jumpSound.Play();
                     forceY = this.jumpForce;
+
                     
                 }
+                this._animator.SetInteger("AnimState", 2);
+                this._isGrounded = false;
 
             }
         }
@@ -159,30 +173,33 @@ public class HeroControllerScript : MonoBehaviour
         {
             this._berrySound.Play();
             Destroy(other.gameObject);
-            this.gameController.ScoreValue += 10;
+            this.gameController.ScoreValue += 100;
         }
 
-        /*if (other.gameObject.CompareTag("SpikedWheel"))
+        if (other.gameObject.CompareTag("Spikes"))
         {
             this._hurtSound.Play();
             this.gameController.LivesValue--;
-        }*/
+            this._transform.position = new Vector3(this.currentPosition.x-80f, this.currentPosition.y, 0);
 
+        }
 
         if (other.gameObject.CompareTag("Death"))
         {
             this._spawn();
-            //this._hurtSound.Play();
+            this._hurtSound.Play();
            this.gameController.LivesValue--;
+
         }
-        if (other.gameObject.CompareTag("Flag"))
+        if (other.gameObject.CompareTag("Flag")|| this.gameController.LivesValue<=0)
         {
-            this.gameController._endGame();
             this._themeSound.Stop();
             this._gameOverSound.Play();
+            this.gameController._endGame();
             
             
         }
+        
     }
 
     //Private Methods
@@ -191,11 +208,11 @@ public class HeroControllerScript : MonoBehaviour
     {
         if (this._facingRight)
         {
-            this._transform.localScale = new Vector2(2.05f, 1.6f);
+            this._transform.localScale = new Vector2(1.8f, 1f);
         }
         else
         {
-            this._transform.localScale = new Vector2(-2.05f, 1.6f);
+            this._transform.localScale = new Vector2(-1.8f, 1f);
         }
     }
 
